@@ -1,4 +1,6 @@
 # Machine Learning Assignments
+### Material
+All the material used, and results obtained have been posted [here](https://drive.google.com/drive/folders/1GvRv5tRwOlDkdFDy0pgYfdLh7Wdt8j0R?usp=sharing).
 ### Data
 Our data is defined [here](https://github.com/Aryaman-Chauhan/Machine_Learning_Assignments/blob/main/Assignment%201/data1/census-income_definition.pdf).
 ### Assignment 1
@@ -20,3 +22,8 @@ Assignment 2 is about creating more classifiers for the same data, which are:
 This time, we further pre-processed the data by Rescaling it using StandartScaler. The report for this assignment can be found [here](https://github.com/Aryaman-Chauhan/Machine_Learning_Assignments/blob/main/Assignment%202/Report.pdf).
 
 This assignment also asks us to decide which Classifier is the best, which we have discussed about in detail in the Report.
+
+### Paper Implemetation:Water Quality Index
+
+The papers implemented can be found here. [Link1](https://www.sciencedirect.com/science/article/pii/S2214714422003646) [Link2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9602497/).
+The presentation and related documents including Presentation in in the folder named Paper_Implementation
