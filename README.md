@@ -1,4 +1,5 @@
 # Machine Learning Assignments
+This repository is ARCHIVED!!!
 ### Material
 All the material used, and results obtained have been posted [here](https://drive.google.com/drive/folders/1GvRv5tRwOlDkdFDy0pgYfdLh7Wdt8j0R?usp=sharing).
 ### Data
